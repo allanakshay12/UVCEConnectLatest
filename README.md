@@ -2,7 +2,7 @@
 A one-stop destination for all things UVCE!
 
 ## Brief Introduction  
-An Android App to enable easier reception of college related information such as syllabus copies thereby enabling students to download academic content with ease.
+An Android App to enable easier reception of college related information such as syllabus copies thereby enabling students to download academic content with ease
 
 ## Tools Used  
 Android Studio, Git, Firebase and related APIs 
@@ -13,5 +13,5 @@ Android Studio, Git, Firebase and related APIs
 * Access to syllabus, question papers, notes and question banks
 * Access to college-related information
 
-## Play Store Link  
+## Play Store Link
 [Get the App here!](https://play.google.com/store/apps/details?id=com.uvce.uvceconnect&hl=en_IN)
